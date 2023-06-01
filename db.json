@@ -1,16 +1,19 @@
 {
-  "posts":[
+  "tasks": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": "27062792-b825-4e36-b84f-28b83b410fa9",
+      "description": "a",
+      "isDone": true
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": "46c8067f-9e7c-4f29-a427-ca30f2677172",
+      "description": "a",
+      "isDone": false
+    },
+    {
+      "id": "ac9a96ec-8a23-4658-bd35-ee12900ad3d2",
+      "description": "teste",
+      "isDone": false
     }
   ]
 }
